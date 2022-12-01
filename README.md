@@ -16,7 +16,7 @@ some user interface library that this language provides.
 
 The programming language use is:
 -
-Java with Java AWT (Abstract Window Tool)
+Java with  the library Java AWT (Abstract Window Tool) and Java Swing.
 
 # Useful Websites
 
