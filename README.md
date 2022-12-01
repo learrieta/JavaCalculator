@@ -1,30 +1,31 @@
 # Overview
+ This software is written in Java. It is a simple Calculator that can do basic mathematical operations such addition, subtraction, division and multiplication. It was originally going to be a terminal use only
+but upon having it finished relatively soon, I went ahead and create a user interface for it which made it look better.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The main purpose for this software is to reinforce my knowledge of Java and improve upon my foundations on this programming language. I also wanted to experiment with
+some user interface library that this language provides.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+ * IntelliJ IDE
 
-{Describe the programming language that you used and any libraries.}
+ * Github
+
+The programming language use is:
+-
+Java with Java AWT (Abstract Window Tool)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [IntelliJ IDEA](https://www.jetbrains.com/help/idea/getting-started.html)
+* [Java Point](https://www.javatpoint.com/java-swing)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Create a better graphic interface
+* Make an executable icon for desktop
+* Make the calculator complete with all the standard functionalities.
